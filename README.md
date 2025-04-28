@@ -27,3 +27,7 @@ For a deeper analysis, filters can be added to allow users to compare **red vs. 
 Finally, the dashboard can include a **summary table or decision-support section**, which outlines key takeaways or recommendations based on the data—such as which chemical adjustments might enhance quality or which wines meet certain quality thresholds for export or marketing.
 
 Overall, the Wine Quality Insights Dashboard transforms complex datasets into an accessible, user-friendly interface that empowers better decision-making and continuous quality improvement in the wine industry.
+
+#Output
+
+![Image](https://github.com/user-attachments/assets/ed03b7c5-fbd3-42a2-a0c6-906f8f54ecea)
